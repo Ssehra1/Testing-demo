@@ -45,4 +45,4 @@ jobs:
         
 
       - name: Run integration tests
-        run: python -m pytest -v tests/test_integration.py
+        run: python -m pytest -v Tests/test_integration.py
